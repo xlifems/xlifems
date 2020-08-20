@@ -3,6 +3,8 @@
 - 💬 I'm a happy Colombian programmer, passionate about web development and programming. I 💛JavaScript.
 - 🔭 I’m currently working on [servinformacion](https://servinformacion.com/) as Frontend Developer 👨‍💻
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xlifems&show_icons=true)
+
 <!--
 **xlifems/xlifems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
