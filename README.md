@@ -1,6 +1,7 @@
-### Hi there 👋 I'm Félix Adrián
+# Hi there 👋 I'm Félix Adrián
 
-🔭 I’m currently working on [servinformacion](https://servinformacion.com/) as Frontend Developer 👨‍💻
+- 💬 I'm a happy Colombian programmer, passionate about web development and programming. I 💛JavaScript.
+- 🔭 I’m currently working on [servinformacion](https://servinformacion.com/) as Frontend Developer 👨‍💻
 
 <!--
 **xlifems/xlifems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
